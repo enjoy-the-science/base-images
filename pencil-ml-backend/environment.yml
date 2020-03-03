@@ -1,0 +1,20 @@
+name: base
+
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+  - pytorch
+
+dependencies:
+  - python=3.7
+  - connexion
+  - flask==1.0.3
+  - flask-cors
+  - matplotlib
+  - opencv
+  - pillow
+  - pytorch
+  - scikit-image
+  - scikit-learn
+  - torchvision
