@@ -14,7 +14,6 @@ dependencies:
   - matplotlib
   - opencv
   - pillow
-  - pytorch
   - scikit-image
   - scikit-learn
   - torchvision
